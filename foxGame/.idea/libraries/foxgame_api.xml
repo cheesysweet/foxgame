@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="foxgame_api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/foxgame_api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
